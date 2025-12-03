@@ -1,6 +1,6 @@
 <!-- 🌌 CYBERPUNK: EDGERUNNERS — TOP BANNER -->
 <p align="center">
-  <img src="your link" width="600" style="border-radius: 20px;"/>
+  <img src="https://github.com/Devsama007/Devsama007/blob/main/5cm%20gif.gif?raw=true" width="500" style="border-radius: 20px;"/>
 </p>
 
 <h1 align="center" style="font-size: 3rem; font-weight: 800;">
