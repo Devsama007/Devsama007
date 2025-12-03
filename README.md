@@ -41,8 +41,9 @@
 
 <!-- 🌀 STEINS;GATE — SECTION DIVIDER -->
 <p align="center">
-  <img src="STEINSGATE_GIF_URL" width="360" style="border-radius: 12px;"/>
-</p>
+  <img src="https://github.com/Devsama007/Devsama007/blob/main/Steins,%20Gate.gif?raw=true" width="600" style="border-radius: 12px;"/>
+</p>  
+
 
 ---
 
