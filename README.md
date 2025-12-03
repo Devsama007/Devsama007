@@ -1,6 +1,6 @@
 <!-- 🌌 CYBERPUNK: EDGERUNNERS — TOP BANNER -->
 <p align="center">
-  <img src="CYBERPUNK_GIF_URL" width="720" style="border-radius: 20px;"/>
+  <img src="your link" width="600" style="border-radius: 20px;"/>
 </p>
 
 <h1 align="center" style="font-size: 3rem; font-weight: 800;">
@@ -81,18 +81,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&ring=ff00ff&fire=ff00ff&currStreakLabel=ff57ff" height="180"/>
 </p> -->
 
----
+
 
 <!---## 🌌 Contribution Galaxy  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true&hide_border=true&line=ff00ff&point=00d9ff" />
 </p> -->
 
----
+
 
 <!-- 🐴 UMA MUSUME FUNNY ENDING GIF -->
 <p align="center">
-  <img src="UMA_MUSUME_GIF_URL" width="420" style="border-radius: 10px;"/>
+  <img src="https://github.com/Devsama007/Devsama007/blob/main/Cyberpunk%20edgerunners.jpg?raw=true" width="600" style="border-radius: 10px;"/>
 </p>
 
 <h2 align="center" style="font-weight:800; font-size:2rem;">
