@@ -18,7 +18,7 @@
 ## 🌠 <span style="color:#7df9ff; font-size: 1.5rem;">About Me</span>
 
 - 🌱 **Currently Learning:** React.js, Java Development  
-- 💬 **Ask Me About:** WordPress, DS&A  
+- 💬 **Ask Me About:** AI/ML, Database 
 - 🤝 **Collaborating On:** React.js Projects  
 - 📫 **Reach Me At:** *devofficial107@gmail.com*
 
